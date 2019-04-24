@@ -1,0 +1,96 @@
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.Data\bin\Debug\MC.Data.dll.config
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.Data\bin\Debug\MC.Data.dll
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.Data\bin\Debug\MC.Data.pdb
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.Data\bin\Debug\EntityFramework.dll
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.Data\bin\Debug\EntityFramework.xml
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.Data\obj\Debug\MC.Data.csprojResolveAssemblyReference.cache
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.Data\obj\Debug\MC.Data.Migrations.InitialCreate.resources
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.Data\obj\Debug\MC.Data.Migrations.NewMovieColumn.resources
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.GenerateResource.Cache
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.CoreCompileInputs.cache
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.Data\obj\Debug\MC.Data.dll
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.Data\obj\Debug\MC.Data.pdb
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.Data\bin\Debug\MC.Data.dll.config
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.Data\bin\Debug\MC.Data.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.Data\bin\Debug\MC.Data.pdb
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.Data\bin\Debug\EntityFramework.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.Data\bin\Debug\EntityFramework.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.Data\obj\Debug\MC.Data.csprojAssemblyReference.cache
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.CopyComplete
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.Data\obj\Debug\MC.Data.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.Data\obj\Debug\MC.Data.pdb
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.Data\obj\Debug\MC.Data.Migrations.Initial.resources
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.GenerateResource.cache
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.Data\obj\Debug\MC.Data.Migrations.Initial1.resources
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.Data\obj\Debug\MC.Data.Migrations.Initial2.resources
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.Data\bin\Debug\MC.Data.dll.config
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.Data\bin\Debug\MC.Data.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.Data\bin\Debug\MC.Data.pdb
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.Data\bin\Debug\EntityFramework.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.Data\bin\Debug\EntityFramework.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.Data\obj\Debug\MC.Data.csprojResolveAssemblyReference.cache
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.CoreCompileInputs.cache
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.Data\obj\Debug\MC.Data.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.Data\obj\Debug\MC.Data.pdb
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.Data\obj\Debug\MC.Data.Migrations.k.resources
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.GenerateResource.Cache
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.Data\obj\Debug\MC.Data.Migrations.Instance5.resources
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.Data\bin\Debug\MC.Data.dll.config
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.Data\bin\Debug\MC.Data.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.Data\bin\Debug\MC.Data.pdb
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.Data\bin\Debug\EntityFramework.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.Data\bin\Debug\EntityFramework.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.Data\obj\Debug\MC.Data.csprojAssemblyReference.cache
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.Data\obj\Debug\MC.Data.Migrations.k.resources
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.Data\obj\Debug\MC.Data.Migrations.Instance5.resources
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.GenerateResource.cache
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.CopyComplete
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.Data\obj\Debug\MC.Data.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.Data\obj\Debug\MC.Data.pdb
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.Data\bin\Debug\MC.Data.dll.config
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.Data\bin\Debug\MC.Data.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.Data\bin\Debug\MC.Data.pdb
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.Data\bin\Debug\EntityFramework.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.Data\bin\Debug\EntityFramework.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.Data\obj\Debug\MC.Data.csprojAssemblyReference.cache
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.CopyComplete
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.Data\obj\Debug\MC.Data.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.Data\obj\Debug\MC.Data.pdb
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.Data\obj\Debug\MC.Data.Migrations.instance.resources
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.GenerateResource.cache
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.Data\obj\Debug\MC.Data.Migrations.instance1.resources
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.Data\bin\Debug\MC.Data.dll.config
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.Data\bin\Debug\MC.Data.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.Data\bin\Debug\MC.Data.pdb
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.Data\bin\Debug\EntityFramework.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.Data\bin\Debug\EntityFramework.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.Data\obj\Debug\MC.Data.csprojResolveAssemblyReference.cache
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.CoreCompileInputs.cache
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.Data\obj\Debug\MC.Data.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.Data\obj\Debug\MC.Data.pdb
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.Data\bin\Debug\MC.Data.dll.config
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.Data\bin\Debug\MC.Data.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.Data\bin\Debug\MC.Data.pdb
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.Data\bin\Debug\EntityFramework.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.Data\bin\Debug\EntityFramework.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.Data\obj\Debug\MC.Data.csprojResolveAssemblyReference.cache
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.Data\obj\Debug\MC.Data.csproj.CoreCompileInputs.cache
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.Data\obj\Debug\MC.Data.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.Data\obj\Debug\MC.Data.pdb

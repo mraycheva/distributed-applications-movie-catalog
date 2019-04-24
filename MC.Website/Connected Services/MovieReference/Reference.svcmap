@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2f7a4f83-cfe7-4966-9f6c-22dd7c9df394" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49820/Movies.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Movies.wsdl" MetadataType="Wsdl" ID="6d6ed685-8509-4cb8-9d5d-269f4b183452" SourceId="1" SourceUrl="http://localhost:49820/Movies.svc?wsdl" />
+    <MetadataFile FileName="Movies.xsd" MetadataType="Schema" ID="f1a6f284-72b2-4175-ba57-6d0bd7c6eab0" SourceId="1" SourceUrl="http://localhost:49820/Movies.svc?xsd=xsd2" />
+    <MetadataFile FileName="Movies1.xsd" MetadataType="Schema" ID="a4c3879e-3660-4038-a1b0-123dfd02f0e3" SourceId="1" SourceUrl="http://localhost:49820/Movies.svc?xsd=xsd1" />
+    <MetadataFile FileName="Movies2.xsd" MetadataType="Schema" ID="596507f3-526b-4351-837b-c373590851db" SourceId="1" SourceUrl="http://localhost:49820/Movies.svc?xsd=xsd0" />
+    <MetadataFile FileName="Movies.disco" MetadataType="Disco" ID="d0d01db2-b786-4d37-85d7-8320f8ccc4e7" SourceId="1" SourceUrl="http://localhost:49820/Movies.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

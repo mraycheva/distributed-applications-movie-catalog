@@ -1,0 +1,122 @@
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.dll.config
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.dll
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.pdb
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.WcfServices\bin\EntityFramework.dll
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.WcfServices\bin\EntityFramework.SqlServer.dll
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.dll
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.WcfServices\bin\MC.Data.dll
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.pdb
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.dll.config
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.WcfServices\bin\EntityFramework.xml
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.WcfServices\bin\EntityFramework.SqlServer.xml
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.WcfServices\bin\MC.Data.pdb
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.WcfServices\bin\MC.Data.dll.config
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.csprojResolveAssemblyReference.cache
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.csproj.CoreCompileInputs.cache
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.dll
+D:\Uni\Разпределени приложения C#\У1-ПК\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.pdb
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.dll.config
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.pdb
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\bin\EntityFramework.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\bin\EntityFramework.SqlServer.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\bin\MC.Data.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.pdb
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.dll.config
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\bin\EntityFramework.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\bin\EntityFramework.SqlServer.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\bin\MC.Data.pdb
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\bin\MC.Data.dll.config
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.csprojAssemblyReference.cache
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.csproj.CopyComplete
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.pdb
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.dll.config
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.pdb
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WcfServices\bin\EntityFramework.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WcfServices\bin\EntityFramework.SqlServer.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WcfServices\bin\MC.Data.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.pdb
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.dll.config
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WcfServices\bin\EntityFramework.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WcfServices\bin\EntityFramework.SqlServer.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WcfServices\bin\MC.Data.pdb
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WcfServices\bin\MC.Data.dll.config
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.csprojResolveAssemblyReference.cache
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.csproj.CoreCompileInputs.cache
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.pdb
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.dll.config
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.pdb
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\bin\EntityFramework.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\bin\EntityFramework.SqlServer.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\bin\MC.Data.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.pdb
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.dll.config
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\bin\EntityFramework.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\bin\EntityFramework.SqlServer.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\bin\MC.Data.pdb
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\bin\MC.Data.dll.config
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.csprojAssemblyReference.cache
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.csproj.CopyComplete
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.pdb
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.dll.config
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.pdb
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\bin\EntityFramework.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\bin\EntityFramework.SqlServer.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\bin\MC.Data.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.pdb
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.dll.config
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\bin\EntityFramework.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\bin\EntityFramework.SqlServer.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\bin\MC.Data.pdb
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\bin\MC.Data.dll.config
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.csprojAssemblyReference.cache
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.csproj.CopyComplete
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.pdb
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.dll.config
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.pdb
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WcfServices\bin\EntityFramework.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WcfServices\bin\EntityFramework.SqlServer.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WcfServices\bin\MC.Data.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.pdb
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.dll.config
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WcfServices\bin\EntityFramework.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WcfServices\bin\EntityFramework.SqlServer.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WcfServices\bin\MC.Data.pdb
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WcfServices\bin\MC.Data.dll.config
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.csprojResolveAssemblyReference.cache
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.csproj.CoreCompileInputs.cache
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.pdb
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.dll.config
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WcfServices\bin\MC.WcfServices.pdb
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WcfServices\bin\EntityFramework.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WcfServices\bin\EntityFramework.SqlServer.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WcfServices\bin\MC.Data.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.pdb
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WcfServices\bin\MC.ApplicationServices.dll.config
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WcfServices\bin\EntityFramework.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WcfServices\bin\EntityFramework.SqlServer.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WcfServices\bin\MC.Data.pdb
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WcfServices\bin\MC.Data.dll.config
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.csprojResolveAssemblyReference.cache
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.csproj.CoreCompileInputs.cache
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WcfServices\obj\Debug\MC.WcfServices.pdb

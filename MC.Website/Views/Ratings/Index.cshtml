@@ -1,0 +1,29 @@
+﻿@model IEnumerable<MC.Website.ViewModels.RatingVM.RatingVM>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Ratings</h2>
+
+
+<p>
+    @Html.ActionLink("Create", "Create")
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Name</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.RatingValue</td>
+                <td>@Html.ActionLink("Delete", "Delete", new { id = item.Id })</td>
+            </tr>
+        }
+    </tbody>
+</table>

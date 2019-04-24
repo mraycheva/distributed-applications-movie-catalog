@@ -1,0 +1,639 @@
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\ApplicationInsights.config
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.dll.config
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.pdb
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.exe
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.exe.config
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.rsp
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.exe
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.exe.config
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.rsp
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.AppContext.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Console.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.exe
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.exe.config
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.rsp
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Antlr3.Runtime.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Web.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Newtonsoft.Json.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Net.Http.Formatting.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.Helpers.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.WebHost.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.Mvc.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.Optimization.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.Razor.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\WebGrease.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Newtonsoft.Json.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Net.Http.Formatting.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.Helpers.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.WebHost.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.Mvc.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.Optimization.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.Razor.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Antlr3.Runtime.pdb
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Web.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.csprojAssemblyReference.cache
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.csproj.CopyComplete
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.pdb
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\MC.Data.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\EntityFramework.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.pdb
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.dll.config
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\MC.Data.pdb
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\MC.Data.dll.config
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\EntityFramework.xml
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\EntityFramework.SqlServer.dll
+C:\Users\fmi\Desktop\Monica\У1\MovieCatalog\MC.WebApiServices\bin\EntityFramework.SqlServer.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\ApplicationInsights.config
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.dll.config
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.pdb
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.exe
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.exe.config
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.rsp
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.exe
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.exe.config
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.rsp
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.AppContext.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Collections.Immutable.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Console.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Compression.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.FileSystem.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Pipes.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Reflection.Metadata.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.AccessControl.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Claims.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.ValueTuple.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XPath.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.exe
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.exe.config
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.rsp
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\VBCSCompiler.exe
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\roslyn\VBCSCompiler.exe.config
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Antlr3.Runtime.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\EntityFramework.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\EntityFramework.SqlServer.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Web.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.WindowsServer.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Microsoft.ApplicationInsights.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Microsoft.Web.Infrastructure.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Newtonsoft.Json.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Net.Http.Formatting.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.Helpers.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.WebHost.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.Mvc.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.Optimization.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.Razor.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Deployment.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Razor.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\WebGrease.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\MC.Data.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.pdb
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.dll.config
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\EntityFramework.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\EntityFramework.SqlServer.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Newtonsoft.Json.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Net.Http.Formatting.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.Helpers.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.WebHost.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.Mvc.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.Optimization.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.Razor.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Deployment.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Razor.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Antlr3.Runtime.pdb
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.WindowsServer.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Web.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\MC.Data.pdb
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\bin\MC.Data.dll.config
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.csprojResolveAssemblyReference.cache
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.csproj.CoreCompileInputs.cache
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.dll
+D:\Uni\Разпределени приложения C#\У2-corr\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.pdb
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\ApplicationInsights.config
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.dll.config
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.pdb
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.exe
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.exe.config
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.rsp
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.exe
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.exe.config
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.rsp
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.AppContext.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Console.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.exe
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.exe.config
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.rsp
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Antlr3.Runtime.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\EntityFramework.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\EntityFramework.SqlServer.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Web.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Newtonsoft.Json.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Net.Http.Formatting.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Helpers.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.WebHost.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Mvc.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Optimization.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Razor.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\WebGrease.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\MC.Data.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.pdb
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.dll.config
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\EntityFramework.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\EntityFramework.SqlServer.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Newtonsoft.Json.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Net.Http.Formatting.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Helpers.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.WebHost.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Mvc.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Optimization.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Razor.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Antlr3.Runtime.pdb
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Web.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\MC.Data.pdb
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\bin\MC.Data.dll.config
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.csprojAssemblyReference.cache
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.csproj.CopyComplete
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.dll
+C:\Users\fmi\Desktop\Monica\У2-МР\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.pdb
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\ApplicationInsights.config
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.dll.config
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.pdb
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.exe
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.exe.config
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.rsp
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.exe
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.exe.config
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.rsp
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.AppContext.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Console.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.exe
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.exe.config
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.rsp
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Antlr3.Runtime.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\EntityFramework.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\EntityFramework.SqlServer.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Web.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Newtonsoft.Json.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Net.Http.Formatting.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Helpers.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.WebHost.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Mvc.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Optimization.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Razor.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\WebGrease.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\MC.Data.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.pdb
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.dll.config
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\EntityFramework.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\EntityFramework.SqlServer.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Newtonsoft.Json.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Net.Http.Formatting.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Helpers.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.WebHost.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Mvc.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Optimization.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.Razor.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Antlr3.Runtime.pdb
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Web.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\MC.Data.pdb
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\bin\MC.Data.dll.config
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.csprojAssemblyReference.cache
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.csproj.CopyComplete
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.dll
+C:\Users\fmi\Desktop\Monica\Monica\У4-МР\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.pdb
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\ApplicationInsights.config
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.dll.config
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.pdb
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.exe
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.exe.config
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.rsp
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.exe
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.exe.config
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.rsp
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.AppContext.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Collections.Immutable.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Console.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Compression.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.FileSystem.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Pipes.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Reflection.Metadata.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.AccessControl.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Claims.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.ValueTuple.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XPath.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.exe
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.exe.config
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.rsp
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\VBCSCompiler.exe
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\roslyn\VBCSCompiler.exe.config
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Antlr3.Runtime.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\EntityFramework.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\EntityFramework.SqlServer.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Web.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.WindowsServer.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Microsoft.ApplicationInsights.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Microsoft.Web.Infrastructure.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Newtonsoft.Json.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Net.Http.Formatting.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.Helpers.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.WebHost.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.Mvc.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.Optimization.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.Razor.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Deployment.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Razor.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\WebGrease.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\MC.Data.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.pdb
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.dll.config
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\EntityFramework.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\EntityFramework.SqlServer.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Newtonsoft.Json.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Net.Http.Formatting.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.Helpers.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.WebHost.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.Mvc.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.Optimization.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.Razor.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Deployment.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Razor.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Antlr3.Runtime.pdb
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.WindowsServer.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Web.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\MC.Data.pdb
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\bin\MC.Data.dll.config
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.csprojResolveAssemblyReference.cache
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.csproj.CoreCompileInputs.cache
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.dll
+D:\Uni\Разпределени приложения C#\У4-МР без firebase\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.pdb
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\ApplicationInsights.config
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.dll.config
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\MC.WebApiServices.pdb
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.exe
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.exe.config
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\csc.rsp
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.exe
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.exe.config
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\csi.rsp
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.AppContext.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Collections.Immutable.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Console.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Compression.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.FileSystem.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.IO.Pipes.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Reflection.Metadata.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.AccessControl.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Claims.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.ValueTuple.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XPath.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.exe
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.exe.config
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\vbc.rsp
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\VBCSCompiler.exe
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\roslyn\VBCSCompiler.exe.config
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Antlr3.Runtime.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\EntityFramework.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\EntityFramework.SqlServer.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Web.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.WindowsServer.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Microsoft.ApplicationInsights.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Microsoft.Web.Infrastructure.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Newtonsoft.Json.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Net.Http.Formatting.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.Helpers.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.WebHost.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.Mvc.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.Optimization.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.Razor.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Deployment.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Razor.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\WebGrease.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\MC.Data.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.pdb
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\MC.ApplicationServices.dll.config
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\EntityFramework.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\EntityFramework.SqlServer.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Newtonsoft.Json.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Net.Http.Formatting.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.Helpers.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.Http.WebHost.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.Mvc.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.Optimization.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.Razor.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Deployment.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Web.WebPages.Razor.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Antlr3.Runtime.pdb
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.WindowsServer.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Microsoft.AI.Web.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\MC.Data.pdb
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\bin\MC.Data.dll.config
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.csprojResolveAssemblyReference.cache
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.csproj.CoreCompileInputs.cache
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.dll
+D:\Uni\Разпределени приложения C#\Git\MovieCatalog\MC.WebApiServices\obj\Debug\MC.WebApiServices.pdb

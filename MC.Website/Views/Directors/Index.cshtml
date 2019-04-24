@@ -1,0 +1,34 @@
+﻿@model IEnumerable<MC.Website.ViewModels.DirectorVM.DirectorVM>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Directors</h2>
+
+<p>
+    @Html.ActionLink("Create", "Create")
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>@Html.DisplayNameFor(m => m.Username)</td>
+            <td>@Html.DisplayNameFor(m => m.FName)</td>
+            <td>@Html.DisplayNameFor(m => m.LName)</td>
+            <td>@Html.DisplayNameFor(m => m.Description)</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Username)</td>
+                <td>@Html.DisplayFor(modelItem => item.FName)</td>
+                <td>@Html.DisplayFor(modelItem => item.LName)</td>
+                <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                <td>@Html.ActionLink("Delete", "Delete", new { id = item.Id })</td>
+            </tr>
+        }
+    </tbody>
+</table>

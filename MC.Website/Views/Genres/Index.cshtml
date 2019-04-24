@@ -1,0 +1,27 @@
+﻿@model IEnumerable<MC.Website.ViewModels.GenreVM.GenreVM>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Genres</h2>
+
+<p>
+    @Html.ActionLink("Create", "Create")
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>@Html.DisplayNameFor(m => m.Name)</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@Html.ActionLink("Delete", "Delete", new { id = item.Id })</td>
+            </tr>}
+    </tbody>
+</table>
